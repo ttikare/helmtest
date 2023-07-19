@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-app-config:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-19T17:52:21.601826-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 65a156e6de6c47fb12b929c47ac4e31d996afbbc6f31e04724148f3726eaf513
+    name: my-app-config
+    type: application
+    urls:
+    - https://ttikare.github.io/helmtest/my-app-config-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-19T17:52:21.600636-04:00"
